@@ -1,0 +1,10 @@
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\bin\Debug\Examen1-EdwinLeonardoMolinaFlores.exe.config
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\bin\Debug\Examen1-EdwinLeonardoMolinaFlores.exe
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\bin\Debug\Examen1-EdwinLeonardoMolinaFlores.pdb
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\obj\Debug\Examen1-JorgeMadrid.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\obj\Debug\Examen1_EdwinLeonardoMolinaFlores.Formularios.FrmSalarioNeto.resources
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\obj\Debug\Examen1_EdwinLeonardoMolinaFlores.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\obj\Debug\Examen1-JorgeMadrid.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\obj\Debug\Examen1-JorgeMadrid.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\obj\Debug\Examen1-EdwinLeonardoMolinaFlores.exe
+C:\Users\Usuario\Downloads\Examen1-EdwinLeonardoMolinaFlores\obj\Debug\Examen1-EdwinLeonardoMolinaFlores.pdb
